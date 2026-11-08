@@ -111,10 +111,4 @@ The dataset is distributed by Kaggle and is **not included in this repository** 
 [competition data page](https://www.kaggle.com/c/GiveMeSomeCredit/data) (a Kaggle account and
 acceptance of the competition rules are required) and place them in the project root.
 
-## Possible next steps
-
-Feature interactions and model ensembling — judged by cross-validation only, since the held-out
-test set has been spent and can no longer referee anything. Probability calibration would matter if
-these scores fed real lending decisions, and monotonic constraints on the booster would help where
-regulatory interpretability is required.
 
