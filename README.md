@@ -118,7 +118,3 @@ test set has been spent and can no longer referee anything. Probability calibrat
 these scores fed real lending decisions, and monotonic constraints on the booster would help where
 regulatory interpretability is required.
 
----
-
-*Built with AI assistance (Claude): data investigation and modeling decisions were mine;
-implementation, verification, and experiment execution were AI-assisted.*
